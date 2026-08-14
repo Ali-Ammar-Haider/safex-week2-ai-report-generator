@@ -1,0 +1,40 @@
+============================================================
+            SAFEX SOLUTIONS - BUSINESS METRICS REPORT
+============================================================
+Report Date: 19-07-2026
+Overall Health Score: 82.2/100
+
+------------------------------------------------------------
+KPI & STATISTICAL SUMMARY
+------------------------------------------------------------
+Total Projects          : 40
+Completed Projects      : 21
+In Progress Projects    : 11
+Pending Projects        : 8
+Average Completion      : 79.50%
+Total Hours Worked      : 1440
+Average Hours Worked    : 36.00
+
+------------------------------------------------------------
+FINANCIAL SUMMARY
+------------------------------------------------------------
+Total Budget            : $815,000.00
+Total Actual Cost       : $816,500.00
+Budget Difference       : $-1,500.00 (OVER BUDGET)
+
+------------------------------------------------------------
+TOP PERFORMING PROJECT
+------------------------------------------------------------
+Project Name            : AI FAQ Chatbot
+Department              : AI
+Completion              : 100%
+Client Satisfaction     : 4.1 / 5
+
+------------------------------------------------------------
+AI ANALYSIS & EXECUTIVE INSIGHTS
+------------------------------------------------------------
+AI Analysis could not be generated. Error: 404 This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements.
+
+============================================================
+            END OF REPORT
+============================================================
